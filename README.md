@@ -17,7 +17,7 @@
   <img align="left" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/Rust-557C94?style=for-the-badge&logo=Rust&logoColor=critical">
   
-   <br>
+   <pre>
   
   <a href="https://www.instagram.com/liv_cl_/" target="_blank"><img align="right" src="https://img.shields.io/badge/-liv_cl_-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <img align="right" src="https://img.shields.io/badge/livy tag:7949-7289DA?style=for-the-badge&logo=discord&logoColor=white">
