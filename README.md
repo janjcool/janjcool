@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 ! I'm Liv</h1>
 
 <p align="center">
-  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=Student"></a>
 </p>
 
 ### INTERESTS
