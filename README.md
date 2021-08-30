@@ -4,9 +4,38 @@
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![l](data:image/png;base64,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)
+![l](https://img.shields.io/badge/Rust-557C94?style=for-the-badge&logo=Rust&logoColor=critical)
 
 ## Interests
 I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm learning Rust.
 ## Collaborate
 If you want to collaborate send me a mail.
+
+Here are some parrots🦜
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
