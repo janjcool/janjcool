@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋 ! I'm Liv</h1>
 
-### Interests
+<p align="center">
+  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student"></a>
+</p>
+
+### INTERESTS
 I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm learning Rust.
 
 ### SKILLS 
@@ -9,7 +13,7 @@ I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm 
 ![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![l](https://img.shields.io/badge/Rust-557C94?style=for-the-badge&logo=Rust&logoColor=critical)
 
-### Collaborate
+### COLLABORATE
 If you want to collaborate send me a mail.
 
 ### Here is my contact info and some parrot
