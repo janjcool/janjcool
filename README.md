@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 ! I'm Liv</h1>
+<h1 align="center">Hi! I'm Liv</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student"></a>
