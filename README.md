@@ -13,6 +13,18 @@ I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm 
 ![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![l](https://img.shields.io/badge/Rust-557C94?style=for-the-badge&logo=Rust&logoColor=critical)
 
+### My not existing work experience
+- Student
+
+ <img align="right" height="80em" src="https://64.media.tumblr.com/88a292ed527aa5146c2557c3bd77d237/0976bd0e48bfc35e-d4/s540x810/ba02a575e52355406105276f42df764e122e5bf1.gifv" >
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=livy-cl&show_icons=true&locale=en&layout=compact&theme=radical" alt="livy-cl" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livy-cl&show_icons=true&locale=en&theme=tokyonight" alt="livy-cl" width="410" /></p>
+
+<hr>
+
 ### COLLABORATE
 If you want to collaborate send me a mail.
 
