@@ -16,12 +16,12 @@ I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm 
 ### My not existing work experience
 - Student
 
- <img align="right" height="80em" src="https://64.media.tumblr.com/88a292ed527aa5146c2557c3bd77d237/0976bd0e48bfc35e-d4/s540x810/ba02a575e52355406105276f42df764e122e5bf1.gifv" >
+ <img align="right" height="80em" src="https://64.media.tumblr.com/7898d087981456a594c2313bbd7b93f3/7ac6574a6d90f677-e0/s500x750/c342d3ca19af9238bceb2e7866857e7ee27839e9.gifv" >
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=livy-cl&show_icons=true&locale=en&layout=compact&theme=radical" alt="livy-cl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livy-cl&show_icons=true&locale=en&theme=tokyonight" alt="livy-cl" width="480" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livy-cl&show_icons=true&locale=en&theme=tokyonight" alt="livy-cl" width="410" /></p>
 
 <hr>
 
