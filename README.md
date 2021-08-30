@@ -13,13 +13,6 @@ I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm 
 ![langs](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![langs](https://img.shields.io/badge/Rust-557C94?style=for-the-badge&logo=Rust&logoColor=critical)
 
-
-<div> 
-  <a href="https://www.instagram.com/liv_cl_/" target="_blank"><img align="right" src="https://img.shields.io/badge/-liv_cl_-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img align="right" src="https://img.shields.io/badge/livy tag:7949-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:livy.cl@outlook.com"><img align="right" src="https://img.shields.io/badge/-livy.cl@outlook.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
-
 ### My not existing work experience
 - Student
 
@@ -33,4 +26,11 @@ I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### COLLABORATE
+<div> 
+
 If you want to collaborate send me a mail.
+
+  <a href="https://www.instagram.com/liv_cl_/" target="_blank"><img align="right" src="https://img.shields.io/badge/-liv_cl_-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img align="right" src="https://img.shields.io/badge/livy tag:7949-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:livy.cl@outlook.com"><img align="right" src="https://img.shields.io/badge/-livy.cl@outlook.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
