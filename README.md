@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋 ! I'm Liv</h1>
 
+### Interests
+I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm learning Rust.
+
 ### SKILLS 
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![l](https://img.shields.io/badge/Rust-557C94?style=for-the-badge&logo=Rust&logoColor=critical)
 
-## Interests
-I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm learning Rust.
-## Collaborate
+### Collaborate
 If you want to collaborate send me a mail.
 
-Here are some parrots🦜
+### Here is my contact info and some parrot
+liv.cl@outlook.com
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
