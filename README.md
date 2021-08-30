@@ -21,7 +21,7 @@ I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=livy-cl&show_icons=true&locale=en&layout=compact&theme=radical" alt="livy-cl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livy-cl&show_icons=true&locale=en&theme=tokyonight" alt="livy-cl" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livy-cl&show_icons=true&locale=en&theme=tokyonight" alt="livy-cl" width="480" /></p>
 
 <hr>
 
