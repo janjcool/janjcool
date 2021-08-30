@@ -4,9 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Just+a+Student"></a>
 </p>
 
- <img align="right" height="150em" src="https://64.media.tumblr.com/7898d087981456a594c2313bbd7b93f3/7ac6574a6d90f677-e0/s500x750/c342d3ca19af9238bceb2e7866857e7ee27839e9.gifv" >
-</div>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=livy-cl&show_icons=true&locale=en&layout=compact&theme=radical" alt="livy-cl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=livy-cl&show_icons=true&locale=en&theme=tokyonight" alt="livy-cl" width="410" /></p>
