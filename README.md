@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 ! I'm Liv</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Student)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student"></a>
+</p>
 
 ### INTERESTS
 I'm intrested in the programming languages Python, Rust, Go-lang. Currently I'm learning Rust.
