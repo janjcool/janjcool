@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Liv</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Just a Student"></a>
 </p>
 
  <img align="right" height="150em" src="https://64.media.tumblr.com/7898d087981456a594c2313bbd7b93f3/7ac6574a6d90f677-e0/s500x750/c342d3ca19af9238bceb2e7866857e7ee27839e9.gifv" >
