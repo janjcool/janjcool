@@ -16,8 +16,9 @@
 ![langs](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![langs](https://img.shields.io/badge/Rust-557C94?style=for-the-badge&logo=Rust&logoColor=critical)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 <a href="https://www.instagram.com/liv_cl_/" target="_blank"><img align="right" src="https://img.shields.io/badge/-liv_cl_-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img align="right" src="https://img.shields.io/badge/livy tag:7949-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:livy.cl@outlook.com"><img align="right" src="https://img.shields.io/badge/-livy.cl@outlook.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
